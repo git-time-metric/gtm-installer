@@ -1,7 +1,7 @@
 <project>
     <shortName>gtm</shortName>
     <fullName>Git Time Metric</fullName>
-    <version>1.0-beta.3</version>
+    <version>1.0-beta.4</version>
     <splashImage>/Users/mschenk/Documents/Edgeg/GitMetric/gtm logo/gtm-logo.png</splashImage>
     <componentList>
         <component>
